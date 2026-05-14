@@ -20,25 +20,25 @@ async function getWeather(city)
     let weather_icon = document.getElementById("weather-icon");
     switch (data.weather[0].main) {
         case "Clouds":
-            weather_icon.src = "Weather-Icons/cloudy.png";
+            weather_icon.src = "Weather-Icons/cloudy.PNG";
             break;
         case "Clear":
-            weather_icon.src = "Weather-Icons/clear.png";
+            weather_icon.src = "Weather-Icons/clear.PNG";
             break;
         case "Rain":
-            weather_icon.src = "Weather-Icons/rain.png";
+            weather_icon.src = "Weather-Icons/rain.PNG";
             break;
         case "Drizzle":
-            weather_icon.src = "Weather-Icons/drizzle.png";
+            weather_icon.src = "Weather-Icons/drizzle.PNG";
             break;
         case "Snow":
-            weather_icon.src = "Weather-Icons/snow.png";
+            weather_icon.src = "Weather-Icons/snow.PNG";
             break;
         case "Mist":
-            weather_icon.src = "Weather-Icons/mist.png";
+            weather_icon.src = "Weather-Icons/mist.PNG";
             break;
         default:
-            weather_icon.src = "Weather-Icons/clear.png";
+            weather_icon.src = "Weather-Icons/clear.PNG";
     }
     return data;
 }   

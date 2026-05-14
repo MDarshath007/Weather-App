@@ -50,7 +50,7 @@ search_btn.addEventListener("click", () =>
     {
     const city = input_city.value.trim();
     try {
-        if (city == "" && city == 404) 
+        if (city == "") 
             {
             alert("Please enter a city name.");
             } 

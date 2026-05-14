@@ -10,7 +10,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>• OpenWeather API</li>
+  <li>OpenWeather API</li>
 </ul>
 
 <ul>

@@ -13,8 +13,8 @@
   <li>OpenWeather API</li>
 </ul>
 
-<ul>
 What I learned from this project:
+<ul>
 <li>✅ Fetch API </li>
 <li>✅ Async & Await </li>
 <li>✅ DOM Manipulation </li>

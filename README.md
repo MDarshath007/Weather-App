@@ -1,7 +1,9 @@
 😎 Just deployed my Weather App 🌦️ on GitHub Pages!
 
-Live Demo: https://lnkd.in/gfiXy4fF
-GitHub Repo: https://lnkd.in/ggfcCxqv
+<ul>
+  <li>Live Demo: https://lnkd.in/gfiXy4fF</li>
+  <li>GitHub Repo: https://lnkd.in/ggfcCxqv</li>
+</ul>
 
 🛠️ Tech Stack:
 • HTML

@@ -38,7 +38,7 @@ async function getWeather(city)
             weather_icon.src = "Weather-Icons/mist.png";
             break;
         default:
-            weather_icon.src = "Weather-Icons/clear.PNG";
+            weather_icon.src = "Weather-Icons/clear.png";
     }
     return data;
 }   

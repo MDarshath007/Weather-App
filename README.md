@@ -6,17 +6,21 @@
 </ul>
 
 🛠️ Tech Stack:
-• HTML
-• CSS
-• JavaScript
-• OpenWeather API
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>• OpenWeather API</li>
+</ul>
 
+<ul>
 What I learned from this project:
-✅ Fetch API 
-✅ Async & Await
-✅ DOM Manipulation
-✅ Deploying projects using GitHub Pages
-✅ Debugging real deployment issues
+<li>✅ Fetch API </li>
+<li>✅ Async & Await </li>
+<li>✅ DOM Manipulation </li>
+<li>✅ Deploying projects using GitHub Pages </li>
+<li>✅ Debugging real deployment issues </li>
+</ul>
 
 This project helped me better understand how frontend applications interact with APIs and update data dynamically in real time.
 

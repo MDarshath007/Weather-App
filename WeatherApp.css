@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #00c7c0, #007364);
+}
+.weather-app{
+    color: #fff;
+    background: linear-gradient(135deg, #003988, #297fb4);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.41);
+    width: 500px;
+    text-align: center;
+}
+.input-section{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.input-section input{
+    flex: 7;
+    font-size: 20px;
+    padding: 20px;
+    border: none;
+    border-radius: 15px;
+    width: 70%;
+    Height: 65px;
+}
+.input-section input:hover{
+    outline: none;
+    box-shadow: 0 0 15px #ffffff;
+}
+.input-section input:focus{
+    outline: none;
+}
+.input-section button{
+    font-size: 25px;
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    background-color: #00c151;
+    color: #fff;
+    cursor: pointer;
+}
+.input-section button:hover{
+    box-shadow: 0 0 15px #00c14d;
+}
+button:focus{
+    background-color: #00c151;
+}
+button:active{
+    background-color: #00a140;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    transition: transform 0.1s ease;
+}
+img:hover{
+    transform: scale(1.08);
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+h3
+{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 20px;
+}
+.label{
+    font-size: 25px;
+}
+.humi-wind{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

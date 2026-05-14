@@ -63,5 +63,6 @@ search_btn.addEventListener("click", () =>
     catch (error) 
     {
         alert("Error fetching weather data:", error);
+        console.log(error);
     }
 });

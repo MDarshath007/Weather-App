@@ -2,7 +2,6 @@
 
 <ul>
   <li>Live Demo: https://lnkd.in/gfiXy4fF</li>
-  <li>GitHub Repo: https://lnkd.in/ggfcCxqv</li>
 </ul>
 
 🛠️ Tech Stack:
